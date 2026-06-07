@@ -10,7 +10,7 @@ Environment and hardware used to train and evaluate MARCUS on the NYC dataset.
 | Package | Version |
 |---|---|
 | Python | 3.10.19 |
-| PyTorch | 2.10.0 (+cu128) |
+| PyTorch | 2.10.0 |
 | numpy | 2.2.5 |
 | scikit-learn | 1.7.2 |
 
