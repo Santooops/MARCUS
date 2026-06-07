@@ -7,8 +7,6 @@ Environment and hardware used to train and evaluate MARCUS on the NYC dataset.
 
 ## Environment
 
-Conda env: **`marcusbase`** (`/scratch/Renee/miniconda3/envs/marcusbase`)
-
 | Package | Version |
 |---|---|
 | Python | 3.10.19 |
