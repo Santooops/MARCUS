@@ -32,7 +32,6 @@ TRAIN_PATH = "rent_index/train.csv"
 VAL_PATH   = "rent_index/val.csv"
 TEST_PATH  = "rent_index/test.csv"
 
-# csv 里 y(t+1) 在 y_next
 TARGET_COL = "y_next"
 
 # no-rent backbone ckpt
@@ -72,7 +71,6 @@ class RentIndexDataset(Dataset):
     def __getitem__(self, idx):
         row = self.df.iloc[idx]
 
-        # 输入特征来自 (t) 的 year_month
         key = (int(row["modzcta"]), str(row["year_month"]))
         item = self.region_dict[key]
 
