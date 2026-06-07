@@ -39,3 +39,8 @@ Ablation Study:
 <img width="449" height="271" alt="截屏2026-06-07 19 53 34" src="https://github.com/user-attachments/assets/993a5bfd-378c-4f68-bef2-1026a5b57e05" />
 <img width="398" height="211" alt="截屏2026-06-07 19 53 44" src="https://github.com/user-attachments/assets/7a87b250-7e2b-40db-a285-890aa5e39dd0" />
 
+Additional Missing Ratio Experiment：
+
+<img width="460" height="377" alt="截屏2026-06-07 20 06 38" src="https://github.com/user-attachments/assets/a8d1b40f-85d3-4d9e-be53-0aa1e7e5c710" />
+
+
