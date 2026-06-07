@@ -1,5 +1,41 @@
 # MARCUS
 MARCUS: Missing-Aware Region Representation with Contextual Urban Signals for Rent Prediction
+
+# MARCUS — NYC (KDD2026)
+
+Environment and hardware used to train and evaluate MARCUS on the NYC dataset.
+
+## Environment
+
+Conda env: **`marcusbase`** (`/scratch/Renee/miniconda3/envs/marcusbase`)
+
+| Package | Version |
+|---|---|
+| Python | 3.10.19 |
+| PyTorch | 2.10.0 (+cu128) |
+| CUDA (torch build) | 12.8 |
+| cuDNN | 9.10.2 |
+| torch-geometric | 2.7.0 |
+| torch-scatter / sparse / cluster | 2.1.2 / 0.6.18 / 1.6.3 |
+| numpy | 2.2.5 |
+| pandas | 2.3.3 |
+| scikit-learn | 1.7.2 |
+| scipy | 1.15.3 |
+| geopandas / shapely | 1.1.2 / 2.1.2 |
+| matplotlib | 3.10.8 |
+| networkx | 3.4.2 |
+
+## Hardware
+
+| | |
+|---|---|
+| GPU | 2× NVIDIA Tesla V100-PCIE-32GB (training uses `cuda:0`) |
+| NVIDIA driver | 550.100 |
+| OS | Linux (RHEL 8.8, kernel 4.18) |
+
+## Reproducibility note
+
+ Results are not guaranteed to match across different GPU architectures or PyTorch versions.
 GPU： Tesla V100-PCIE-32GB
 Python 3.10.19
 
