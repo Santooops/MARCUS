@@ -36,11 +36,7 @@ Conda env: **`marcusbase`** (`/scratch/Renee/miniconda3/envs/marcusbase`)
 ## Reproducibility note
 
  Results are not guaranteed to match across different GPU architectures or PyTorch versions.
-GPU： Tesla V100-PCIE-32GB
-Python 3.10.19
-
-
-
+ 
 Overview Framework:
 
 <img width="836" height="474" alt="截屏2026-06-07 19 52 19" src="https://github.com/user-attachments/assets/2b81661b-d4f2-4bee-97df-8d09df93bba6" />
