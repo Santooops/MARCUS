@@ -22,9 +22,6 @@ Environment and hardware used to train and evaluate MARCUS on the NYC dataset.
 | NVIDIA driver | 550.100 |
 | OS | Linux (RHEL 8.8, kernel 4.18) |
 
-## Reproducibility note
-
- Results are not guaranteed to match across different GPU architectures or PyTorch versions.
  
 Overview Framework:
 
