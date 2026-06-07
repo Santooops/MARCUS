@@ -22,6 +22,7 @@ Environment and hardware used to train and evaluate MARCUS on the NYC dataset.
 | NVIDIA driver | 550.100 |
 | OS | Linux (RHEL 8.8, kernel 4.18) |
 
+pre-training plus downstream rent-index training and evaluation (task_rentindex.ipynb) — completes in around 25 minutes.
  
 Overview Framework:
 
