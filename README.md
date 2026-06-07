@@ -13,23 +13,14 @@ Conda env: **`marcusbase`** (`/scratch/Renee/miniconda3/envs/marcusbase`)
 |---|---|
 | Python | 3.10.19 |
 | PyTorch | 2.10.0 (+cu128) |
-| CUDA (torch build) | 12.8 |
-| cuDNN | 9.10.2 |
-| torch-geometric | 2.7.0 |
-| torch-scatter / sparse / cluster | 2.1.2 / 0.6.18 / 1.6.3 |
 | numpy | 2.2.5 |
-| pandas | 2.3.3 |
 | scikit-learn | 1.7.2 |
-| scipy | 1.15.3 |
-| geopandas / shapely | 1.1.2 / 2.1.2 |
-| matplotlib | 3.10.8 |
-| networkx | 3.4.2 |
 
 ## Hardware
 
 | | |
 |---|---|
-| GPU | 2× NVIDIA Tesla V100-PCIE-32GB (training uses `cuda:0`) |
+| GPU | NVIDIA Tesla V100-PCIE-32GB |
 | NVIDIA driver | 550.100 |
 | OS | Linux (RHEL 8.8, kernel 4.18) |
 
