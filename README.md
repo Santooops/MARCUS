@@ -1,6 +1,6 @@
 # MARCUS
 MARCUS: Missing-Aware Region Representation with Contextual Urban Signals for Rent Prediction
-
+GPU： Tesla V100-PCIE-32GB
 Python 3.10.19
 
 
