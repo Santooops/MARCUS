@@ -1,9 +1,5 @@
 # MARCUS
-MARCUS: Missing-Aware Region Representation with Contextual Urban Signals for Rent Prediction
-
-# MARCUS — NYC (KDD2026)
-
-Environment and hardware used to train and evaluate MARCUS on the NYC dataset.
+MARCUS: Missing-Aware Region Representation with Contextual Urban Signals for Rent 
 
 ## Environment
 
